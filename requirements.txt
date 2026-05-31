@@ -1,0 +1,6 @@
+Flask==2.3.3
+Flask-Session==0.5.0
+openpyxl==3.1.2
+pymysql==1.1.0
+psycopg2-binary==2.9.9  # PostgreSQL 驱动
+cx-Oracle==8.3.0        # Oracle 驱动

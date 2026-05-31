@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+
+# Session files
+flask_session/
+
+# Output files
+web_output/
+excel_output/
+csv_output/
+*.xlsx
+*.csv
+*.zip
+
+# Config with sensitive info
+db_config.json
+.env
+*.env
