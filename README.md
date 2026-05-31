@@ -147,7 +147,7 @@ A: 确保使用 Excel 或 WPS 打开，格式已经优化为兼容 WPS 和 Excel
 - Flask 2.3+ - Web 框架
 - Flask-Session - 会话管理
 - openpyxl - Excel 文件处理
-- mysql-connector-python - MySQL 驱动（必需）
+- pymysql - MySQL 驱动（必需）
 - psycopg2-binary - PostgreSQL 驱动（可选）
 - cx-Oracle - Oracle 驱动（可选）
 
